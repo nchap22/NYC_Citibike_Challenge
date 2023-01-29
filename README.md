@@ -39,3 +39,8 @@ The data above shows the length the bikes are checked out got and the majority o
 ## 3.	Summary:
 	There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 Overall the data shows that more males checkout bikes then females and ride more throughout the week. Hoever, the checkout time is roughly the same because both males and females tend to checkout bikes for 20 minutes or so compared to a longer period of time. Also, the data shows that the checkout times lean more towards the moring and evening hours versus the afternoon hours and this is because of work schedules. One visual that I think is needed for future analysis is one taht shows the start and end stations for both males and females. Also, the second one is to have a visual that shows checkout time for users for each day of the week to see which dayas have higher checkout times and I would suspect the weekends would have longer checkout times versus during the weekdays. 
+
+### Tableau Publick URl: https://public.tableau.com/shared/BX797G6ZY?:display_count=n&:origin=viz_share_link  
+
+
+###
