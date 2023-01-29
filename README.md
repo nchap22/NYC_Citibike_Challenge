@@ -19,7 +19,8 @@ This data shows more males then females are checking out the bikes.
 3. <img width="742" alt="User Trips by Gender Weekday Viz" src="https://user-images.githubusercontent.com/110268006/215303935-5c695cdc-8c87-425d-a4bb-810a3207ebb1.png">
 This data shows taht there are more subsciber customers versus customers and that both males and females ride bikes moew on monday and tuesday and thursday. However, the data is light on females riding bikes on Friday, Saturday, Sunday, and Wednesday, whereas the data shows that males ride and checkout the bikes thorughout the week but Sunday and Wednesday are lighter then the other days. 
 
-4. <img width="757" alt="Trips by Gender (Weekday per Hour)" src="https://user-images.githubusercontent.com/110268006/215303939-ba424062-2a79-4859-a6e4-37213f52f637.png">
+4. <img width="708" alt="Screen Shot 2023-01-28 at 11 24 46 PM" src="https://user-images.githubusercontent.com/110268006/215304865-f100d7da-8ba7-4e99-9f3b-b65e516dde70.png">
+
 The data shows that both males and females ride and checkout bikes about the same time, whcihc is early mornign and evening hours. Hoever, it does show more males check out bikes then females. 
 
 5. <img width="654" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/110268006/215303959-a99a773e-299b-4648-8673-79cddeb44e93.png">
