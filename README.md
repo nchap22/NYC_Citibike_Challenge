@@ -16,14 +16,15 @@ This shows that they are more males then females that check out bikes in general
 
 This data shows more males then females are checking out the bikes. 
 
-3. <img width="708" alt="Screen Shot 2023-01-28 at 11 24 46 PM" src="https://user-images.githubusercontent.com/110268006/215304933-58129976-921e-4f4a-bb75-73f4c0ba1304.png">
+3. <img width="1331" alt="Screen Shot 2023-01-28 at 11 23 53 PM" src="https://user-images.githubusercontent.com/110268006/215305012-1801db76-b007-4a12-8dbc-8a656f2264f9.png">
+
 
 
 This data shows that there are more subsciber customers versus customers and that both males and females ride bikes moew on monday and tuesday and thursday. However, the data is light on females riding bikes on Friday, Saturday, Sunday, and Wednesday, whereas the data shows that males ride and checkout the bikes thorughout the week but Sunday and Wednesday are lighter then the other days. 
 
 4. <img width="708" alt="Screen Shot 2023-01-28 at 11 24 46 PM" src="https://user-images.githubusercontent.com/110268006/215304865-f100d7da-8ba7-4e99-9f3b-b65e516dde70.png">
 
-The data shows that both males and females ride and checkout bikes about the same time, which is early morning and evening hours. This seems to tell me that people are probalbly riding their bikes to and from work possibly. 
+The data shows that both males and females ride and checkout bikes about the same time, which is early morning and evening hours. This seems to tell me that people are probably riding their bikes to and from work possibly. 
 
 5. <img width="654" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/110268006/215303959-a99a773e-299b-4648-8673-79cddeb44e93.png">
 This shows that during early morning hours  and early evening hours monday through friday more people check out and ride bikes versus during the afternoon hours during monday through friday. I suspect this might have to do with work schedules, because it shows that on Sunday and Saturday more people ride bikes during the afternoon time versus the early morning.  
