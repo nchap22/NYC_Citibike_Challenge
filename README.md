@@ -16,16 +16,17 @@ This shows that they are more males then females that check out bikes in general
 
 This data shows more males then females are checking out the bikes. 
 
-3. <img width="708" alt="Screen Shot 2023-01-28 at 11 24 46 PM" src="https://user-images.githubusercontent.com/110268006/215304907-a06f7068-004e-40a6-9960-a1d2c6a848eb.png">
+3. <img width="708" alt="Screen Shot 2023-01-28 at 11 24 46 PM" src="https://user-images.githubusercontent.com/110268006/215304933-58129976-921e-4f4a-bb75-73f4c0ba1304.png">
 
-This data shows taht there are more subsciber customers versus customers and that both males and females ride bikes moew on monday and tuesday and thursday. However, the data is light on females riding bikes on Friday, Saturday, Sunday, and Wednesday, whereas the data shows that males ride and checkout the bikes thorughout the week but Sunday and Wednesday are lighter then the other days. 
+
+This data shows that there are more subsciber customers versus customers and that both males and females ride bikes moew on monday and tuesday and thursday. However, the data is light on females riding bikes on Friday, Saturday, Sunday, and Wednesday, whereas the data shows that males ride and checkout the bikes thorughout the week but Sunday and Wednesday are lighter then the other days. 
 
 4. <img width="708" alt="Screen Shot 2023-01-28 at 11 24 46 PM" src="https://user-images.githubusercontent.com/110268006/215304865-f100d7da-8ba7-4e99-9f3b-b65e516dde70.png">
 
-The data shows that both males and females ride and checkout bikes about the same time, whcihc is early mornign and evening hours. Hoever, it does show more males check out bikes then females. 
+The data shows that both males and females ride and checkout bikes about the same time, which is early morning and evening hours. This seems to tell me that people are probalbly riding their bikes to and from work possibly. 
 
 5. <img width="654" alt="Trips by Weekday per Hour" src="https://user-images.githubusercontent.com/110268006/215303959-a99a773e-299b-4648-8673-79cddeb44e93.png">
-This shows that during early morning hours  and early evening hours monday through friday more people check out and ride bikes versus during the afternoon hours during monday through friday. I suspect this might have to do with work schedules, because it shows that on Sunday and Saturday more people ride bikes during the afternon time versus the early morning.  
+This shows that during early morning hours  and early evening hours monday through friday more people check out and ride bikes versus during the afternoon hours during monday through friday. I suspect this might have to do with work schedules, because it shows that on Sunday and Saturday more people ride bikes during the afternoon time versus the early morning.  
 
 6. <img width="1203" alt="Checkout Time by Gender" src="https://user-images.githubusercontent.com/110268006/215303966-452d675a-5c93-4deb-b492-88697350dbee.png">
 The data above show that more males then females have a higher number of bikes checked out. 
@@ -36,4 +37,4 @@ The data above shows the length the bikes are checked out got and the majority o
 
 ## 3.	Summary:
 	There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
-Overall the data shows that more males checkout bikes then females and ride more throughout the week. Hoever, the checkout time is roughly the same because both males and females tend to checkout bikes for 20 minutes or so compared to a longer period of time. Also, the data shows that the checkout times lean more towards the moring and evening hours versus the afternoon hours and this is because of work schedules. One visual that I think is needed for future analysis is one taht shows the start and end stations for both males and females. Also, the second one is to have a visual that shows checkout time for users for each day of the week to see which dayas have higher checkout times and I would suspect the weekends would have longer checkout times veruss during the weekdays. 
+Overall the data shows that more males checkout bikes then females and ride more throughout the week. Hoever, the checkout time is roughly the same because both males and females tend to checkout bikes for 20 minutes or so compared to a longer period of time. Also, the data shows that the checkout times lean more towards the moring and evening hours versus the afternoon hours and this is because of work schedules. One visual that I think is needed for future analysis is one taht shows the start and end stations for both males and females. Also, the second one is to have a visual that shows checkout time for users for each day of the week to see which dayas have higher checkout times and I would suspect the weekends would have longer checkout times versus during the weekdays. 
