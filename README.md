@@ -12,7 +12,8 @@ The purpose of this analysis was to be able to demonstrate if males or females c
 
 This shows that they are more males then females that check out bikes in general and that there are more subscribers then customers overall. 
 
-2. <img width="699" alt="Bike Repairs" src="https://user-images.githubusercontent.com/110268006/215303933-f32edafa-b2a1-4351-bdc2-5ae022600edc.png">
+2. <img width="1260" alt="Screen Shot 2023-01-28 at 11 21 10 PM" src="https://user-images.githubusercontent.com/110268006/215304756-0c2244b9-dc8d-4e32-8b9c-41806ae21fef.png">
+
 This data shows more males then females are checking out the bikes. 
 
 3. <img width="742" alt="User Trips by Gender Weekday Viz" src="https://user-images.githubusercontent.com/110268006/215303935-5c695cdc-8c87-425d-a4bb-810a3207ebb1.png">
