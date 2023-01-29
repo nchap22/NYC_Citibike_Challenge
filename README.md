@@ -8,7 +8,8 @@ The purpose of this analysis was to be able to demonstrate if males or females c
 	There is a description of the results for each visualization (7 pt)
 1. <img width="618" alt="Gender" src="https://user-images.githubusercontent.com/110268006/215303918-157d2323-70b3-4f4d-8b7b-c0b2b29591b2.png">
 <img width="638" alt="Customer Type" src="https://user-images.githubusercontent.com/110268006/215303923-8fc5a963-577b-448a-a2e8-1c0e899c7146.png">
-<img width="683" alt="Gender and Customer Type" src="https://user-images.githubusercontent.com/110268006/215303926-1396ec71-346a-4f3c-aa5b-a9e732def5fc.png">
+<img width="1323" alt="Screen Shot 2023-01-28 at 11 19 43 PM" src="https://user-images.githubusercontent.com/110268006/215304726-aaac093b-563d-45fa-856f-8b7e9d0702c2.png">
+
 This shows that they are more males then females that check out bikes in general and that there are more subscribers then customers overall. 
 
 2. <img width="699" alt="Bike Repairs" src="https://user-images.githubusercontent.com/110268006/215303933-f32edafa-b2a1-4351-bdc2-5ae022600edc.png">
