@@ -4,8 +4,8 @@
 The purpose of this analysis was to be able to demonstrate if males or females check out bikes longer than the other. Also, it was to investigate the number of bike trips that males versus females take for each hour of each day of the week. Lastly, the analysis was done to display the number of bike trips males versus females took each day of the week. 
 
 ## 2.	Results:
-o	There are at least seven visualizations for the NYC Citibike analysis (7 pt)
-o	There is a description of the results for each visualization (7 pt)
+	There are at least seven visualizations for the NYC Citibike analysis (7 pt)
+	There is a description of the results for each visualization (7 pt)
 1. <img width="618" alt="Gender" src="https://user-images.githubusercontent.com/110268006/215303918-157d2323-70b3-4f4d-8b7b-c0b2b29591b2.png">
 <img width="638" alt="Customer Type" src="https://user-images.githubusercontent.com/110268006/215303923-8fc5a963-577b-448a-a2e8-1c0e899c7146.png">
 <img width="683" alt="Gender and Customer Type" src="https://user-images.githubusercontent.com/110268006/215303926-1396ec71-346a-4f3c-aa5b-a9e732def5fc.png">
@@ -31,5 +31,5 @@ The data above shows the length the bikes are checked out got and the majority o
 
 
 ## 3.	Summary:
-o	There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
+	There is a high-level summary of the results and two additional visualizations are suggested for future analysis (5 pt)
 Overall the data shows that more males checkout bikes then females and ride more throughout the week. Hoever, the checkout time is roughly the same because both males and females tend to checkout bikes for 20 minutes or so compared to a longer period of time. Also, the data shows that the checkout times lean more towards the moring and evening hours versus the afternoon hours and this is because of work schedules. One visual that I think is needed for future analysis is one taht shows the start and end stations for both males and females. Also, the second one is to have a visual that shows checkout time for users for each day of the week to see which dayas have higher checkout times and I would suspect the weekends would have longer checkout times veruss during the weekdays. 
